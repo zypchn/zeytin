@@ -7,6 +7,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![OpenAI](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)
+![Badge](https://img.shields.io/badge/Pinecone-black)
+
+
 
 <br/>
 
