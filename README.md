@@ -14,14 +14,16 @@
 <br/>
 
 ## Workflow
-<img width="109" height="333" alt="image" src="https://github.com/user-attachments/assets/e7cb4f08-90cc-4e9f-b261-1a40dd48aa43"/>
+<img width="181" height="432" alt="download" src="https://github.com/user-attachments/assets/8d4e8ff9-5ca5-41e5-ac6c-b428b55c8a12" />
+
 
 <br/>
 <br/>
 
 ### TODO
-- ⬜ Change workflow to filter out non-medical questions
+- ✅ Change workflow to filter out non-medical questions
 - ⬜ Finalize workflow to the following : `Find Disease` -> `Find Possible Treatments` -> `Find Diagnostic Tests`
 - ⬜ Add more data to the vector database
   - ⬜ diseases.csv
   - ⬜ treatments.csv
+- ⬜ Integrate Gmail API
