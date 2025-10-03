@@ -1,4 +1,4 @@
-# zeytin
+# 🫒🩺 zeytin
 **Project Description :** automated mail system for patient diagnosis (Turkish) 
 
 
