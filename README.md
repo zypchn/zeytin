@@ -1,5 +1,5 @@
 # zeytin
-**Project Description :** automated mail system for patiend diagnosis (Turkish) 
+**Project Description :** automated mail system for patient diagnosis (Turkish) 
 
 <br/>
 
