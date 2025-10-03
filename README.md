@@ -1,5 +1,4 @@
-# 🫒🩺 zeytin
-**Project Description :** automated mail system for patient diagnosis (Turkish) 
+# 🫒🩺 zeytin : RAG-powered mail system for patient diagnosis (TR)
 
 
 <img width="540" height="540" alt="doktorzeytin (1)" src="https://github.com/user-attachments/assets/a6ab03ab-817e-4e5f-bcc3-f48a77569e49" />
